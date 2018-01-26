@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Second Chapter](second-chapter.md)
+* [介绍](README.md)
+* [第一章](chapter1.md)
+* [第二章](second-chapter.md)
 

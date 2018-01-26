@@ -1,4 +1,2 @@
 # DoDAF v2.3阅读笔记
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
+DoDAF说明书包含3个规范卷以及1个提供有用信息的卷。
