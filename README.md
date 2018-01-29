@@ -1,3 +1,5 @@
 # Executive Summary 
-DoDAF说明书包含3个规范卷以及1个提供有用信息的卷。
+
+2 "help" and 1 "support":
+- DoDAF helps Department of Defense (DOD) managers at all levels make effective decisions by sharing information across the Department, Joint Capability Areas(JCAs), mission, components, and program. 
 
