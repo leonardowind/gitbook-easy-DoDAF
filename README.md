@@ -7,5 +7,5 @@
 * DoDAF supports **guidance** from the Office of Management and Budget \(OMB\) and other Departmental directives and instructions.
 * DoDAF supports DoD's **core decision-making process**. 
 
-
+DoD Components are expected to confirm to the DoDAF when they develop architectures within the Department.
 
