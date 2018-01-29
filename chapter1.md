@@ -1,3 +1,4 @@
-# 第一章
+# Volume I: Overview and Concepts
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
