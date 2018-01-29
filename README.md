@@ -18,5 +18,7 @@ The DoDAF focus on **architectural data **rather than architectural artifacts.
 
 > Tools should use the **DoDAF Meta Model** \(DM2\) specifications to exchange architectural data.
 
+
+
 Visualizing architectural data is accomplished through **models**.
 
