@@ -12,7 +12,11 @@
 
 DoD Components are expected to **confirm **to the DoDAF when they develop architectures within the Department.
 
+
+
 The DoDAF allows **architectural artifacts **to be fit-for-purpose.
+
+
 
 The DoDAF focus on **architectural data **rather than architectural artifacts.
 
@@ -20,5 +24,5 @@ The DoDAF focus on **architectural data **rather than architectural artifacts.
 
 
 
-Visualizing architectural data is accomplished through **models**.sda 
+Visualizing architectural data is accomplished through **models**.sda
 
