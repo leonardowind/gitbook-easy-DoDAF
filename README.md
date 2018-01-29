@@ -20,5 +20,5 @@ The DoDAF focus on **architectural data **rather than architectural artifacts.
 
 
 
-Visualizing architectural data is accomplished through **models**.
+Visualizing architectural data is accomplished through **models**.sda 
 
