@@ -8,8 +8,8 @@
     * [The DoDAF Conceptual Data Model\(CDM\)](chapter1/dodaf-meta-modeldm2/the-dodaf-conceptual-data-modelcdm.md)
     * [Overview of the DM2 Foundation](chapter1/dodaf-meta-modeldm2/overview-of-the-dm2-foundation.md)
 * [Volume II: Architectural Data and Models ](chapter2.md)
-  * Introduction
-  * DoDAF data groups
-  * DoDAF viewpoints and models
+  * [Introduction](chapter2/introduction.md)
+  * [DoDAF data groups](chapter2/dodaf-data-groups.md)
+  * [DoDAF viewpoints and models](chapter2/dodaf-viewpoints-and-models.md)
 * [Volume III: Meta-model Ontology Foundation and Physical Exchange Specification ](chapter3.md)
 
