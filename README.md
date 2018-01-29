@@ -1,4 +1,5 @@
 # Executive Summary
+[Read me in gitbook](https://leonardowind.gitbooks.io/easy-dodaf/content/)
 
 2 "help" and 2 "support":
 
