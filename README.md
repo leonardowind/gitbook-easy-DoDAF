@@ -24,8 +24,8 @@ The DoDAF specification comprises three normative volumes and one informative vo
 
 * Volume 1，the **manager's** volume, explains the **role** of architecture within core DoD process, and **key DoD architecture concepts** are identified and defined in this Volume.
 * Volume 2，the **architect's** volume, 
-  * defines architectural **viewpoints **and **model **
-  * specifies the **DM2 **at a logical level, as an elaboration of the key concepts identified and defined in Volume 1.
+  * defines architectural **viewpoints** and **model**
+  * specifies the **DM2** at a logical level, as an elaboration of the key concepts identified and defined in Volume 1.
 * Volume 3，the **developer's** volume, discusses the **ontologic foundation** for DM2 and specifies the **physical level format** for the exchange of DoDAF-compliant architectural data.
 * Volume 4 publishes descriptions of other best practices, lessons learned, and reference documents that **supplement the information** contained in the three normative volumes of the DoDAF.
 
