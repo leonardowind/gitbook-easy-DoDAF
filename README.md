@@ -12,17 +12,13 @@
 
 DoD Components are expected to **confirm **to the DoDAF when they develop architectures within the Department.
 
-
-
 The DoDAF allows **architectural artifacts **to be fit-for-purpose.
-
-
 
 The DoDAF focus on **architectural data **rather than architectural artifacts.
 
 > Tools should use the **DoDAF Meta Model** \(DM2\) specifications to exchange architectural data.
 
+Visualizing architectural data is accomplished through **models**.
 
 
-Visualizing architectural data is accomplished through **models**.sda
 
