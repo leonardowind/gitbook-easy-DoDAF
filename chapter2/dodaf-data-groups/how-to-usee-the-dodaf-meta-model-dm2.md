@@ -26,7 +26,7 @@
 * The DoDAF groups meta-model concepts that are semantically **related**.
   * Principle data groups are building **blocks** for descriptions behavior and structure.
   * Supporting data groups provide **properties and attributes** for the principle data groups.
-* These DoDAF 2.0 data groups support both DoDAF viewpoints and the DoD key processes.
+* These DoDAF 2.0 data groups **support** both DoDAF **viewpoints** and the DoD key **processes**.
   ![](/assets/data-groups.png)
 * The principle data groups are:
   * Performers 
