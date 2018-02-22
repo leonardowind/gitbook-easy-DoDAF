@@ -10,6 +10,7 @@
 * [Volume II: Architectural Data and Models ](chapter2.md)
   * [Introduction](chapter2/introduction.md)
   * [DoDAF data groups](chapter2/dodaf-data-groups.md)
+    * [How to usee the DoDAF meta-model \(DM2\)](chapter2/dodaf-data-groups/how-to-usee-the-dodaf-meta-model-dm2.md)
   * [DoDAF viewpoints and models](chapter2/dodaf-viewpoints-and-models.md)
 * [Volume III: Meta-model Ontology Foundation and Physical Exchange Specification ](chapter3.md)
 
