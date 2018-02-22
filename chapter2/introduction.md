@@ -12,7 +12,23 @@
 This volume contains **information** for **architects** and other technical professionals who develop, use, and maintain architecture.
 
 * Section 1 the **Introduction** to this volume.
-* Section 2 presents the DoDAF **meta-model data groups**
+* Section 2 presents the DoDAF **meta-model data groups**; these data groups are the **building blocks** of architecture descriptions.
+  * These data groups cover:
+    * performers, 
+    * resource flows, 
+    * information and data, 
+    * rules, 
+    * capabilities, 
+    * services, 
+    * projects, 
+    * organizational structures, 
+    * measures, 
+    * locations,
+    * pedigrees.
+  * The **discussions** of each data group includes:
+    * **introductory** information with an **overview** of the data group;
+    * information about the **types and relationships** incorporated by the data group;
+    * a DoDAF meta-model **diagram** that shows these types and relationships.
 * Section 3 describes the **viewpoints** of the DoD architecture framework. Appropriate **models** are described for each of these viewpoints.
 * **Appendices** to this volume provide extracts from the DoDAF Glossary.
   * Appendix B identifies and describes the **core terms** of the DoDAF model as these terms are used here.
