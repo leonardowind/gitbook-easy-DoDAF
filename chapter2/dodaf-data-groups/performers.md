@@ -8,6 +8,8 @@
 
 # Data group description
 
+![](/assets/Figure 2.3.1-1 DoDAF meta-model diagram for Resource Flows data group.jpg)
+
 # Use in DoD core processes
 
 
