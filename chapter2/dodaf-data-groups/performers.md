@@ -8,7 +8,7 @@
 
 # Data group description
 
-![](/assets/Figure2.3.1-1.jpg)
+![](/assets/Figure2.2.1-1.png)
 
 1. The above figure shows that DoDAF meta-model diagram for the Performers data group.
 2. A performer may be:
