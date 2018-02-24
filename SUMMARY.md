@@ -23,7 +23,7 @@
     * [Locations](chapter2/dodaf-data-groups/locations.md)
     * [Pedigrees](chapter2/dodaf-data-groups/pedigrees.md)
   * [DoDAF viewpoints and models](chapter2/dodaf-viewpoints-and-models.md)
-    * Viewpoint and model descriptions
+    * [Viewpoint and model descriptions](chapter2/dodaf-viewpoints-and-models/viewpoint-and-model-descriptions.md)
     * All Viewpoint \(AV\)
     * Capability Viewpoint \(CV\)
     * Data and Information Viewpoint \(DIV\)

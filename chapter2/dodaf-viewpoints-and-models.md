@@ -15,6 +15,7 @@
    6. The **Service Viewpoint** describes the performers, activities, services, and resources that **provide or support** operational, capability, and system **functions**.
    7. The **Standards Viewpoint** describes **applicable** policies, standards, guidance, constraints, and **forecasts** that shape capability and operational requirements, systems engineering processes, systems, and services.
    8. The **System Viewpoint** describes **systems**, their **composition**, **connections**, and **contexts** that provide or support operational and capability functioning.
+5. Figure2.12.2-1 illustrates these viewpoints.
 
-
+![](/assets/Figure2.12.2-1.png)
 
