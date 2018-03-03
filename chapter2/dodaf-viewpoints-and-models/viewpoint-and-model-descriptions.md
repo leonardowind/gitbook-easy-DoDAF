@@ -8,8 +8,6 @@ A principal **objective** of DoDAF is to present **this information** in ways th
 
 The DoDAF does **this** by dividing a problem space into manageable pieces that correspond to stakeholder **viewpoints**, which are further defined as **models**.
 
-
-
 DoDAF organizes models into these viewpoints:
 
 1. The All Viewpoint describes **overarching aspects** of an architecture context that relate to all viewpoints appropriate for the architecture.
@@ -21,5 +19,5 @@ DoDAF organizes models into these viewpoints:
 7. The Standards Viewpoint describes **applicable policies, standards, guidance, constraints**, and **forecasts** that shape capability and operational requirements, systems engineering processes, systems, and services.
 8. The System Viewpoint describes **systems, their composition, connections, and contexts** that provide or support operational and capability functions.
 
-
+![](/assets/Figure2.12.2-1.png)
 
