@@ -27,7 +27,7 @@
     * [All Viewpoint \(AV\)](chapter2/dodaf-viewpoints-and-models/all-viewpoint-av.md)
     * [Capability Viewpoint \(CV\)](chapter2/dodaf-viewpoints-and-models/capability-viewpoint-cv.md)
     * [Data and Information Viewpoint \(DIV\)](chapter2/dodaf-viewpoints-and-models/data-and-information-viewpoint-div.md)
-    * Operational Viewpoint \(OV\)
+    * [Operational Viewpoint \(OV\)](chapter2/dodaf-viewpoints-and-models/operational-viewpoint-ov.md)
     * Project Viewpoint \(PV\)
     * Service Viewpoint \(SvcV\)
     * Standards Viewpoint \(StdV\)
