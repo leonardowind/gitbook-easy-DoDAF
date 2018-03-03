@@ -6,9 +6,9 @@ The All Viewpoint describes **overarching aspects** of an architecture context t
 2. All Viewpoint models are used to **register** architecture descriptions with the Defense of Defense Architecture Repository System \(**DARS**\).
 3. Table 3.2-1 names and describes All Viewpoint models.![](/assets/Table 3.2-1All Viewpoint models.png)
 
-# Executive Summary \(AV-1\)
+## Executive Summary \(AV-1\)
 
-# Glossary \(AV-2\)
+## Glossary \(AV-2\)
 
 
 
