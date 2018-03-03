@@ -1,14 +1,14 @@
-The Department of Defense Architecture Framework \(DoDAF\) has been designed to meet the specific **business and operational needs** of the Department of Defense. 
+The Department of Defense Architecture Framework \(DoDAF\) has been designed to meet the specific **business and operational needs** of the Department of Defense.
 
 The DoDAF defines a way of representing an enterprise architecture that enables **stakeholders** to focus on **specific areas of interests** in the enterprise while retaining sight of the **big picture**.
 
 To **help** decision-makers, DoDAF provides ways to abstract **essential information** from underlying complexity and present this information in ways that maintain coherence and consistency.
 
-A principal **objective** of DoDAF is to present **this information** in ways that can be understood by many stakeholders who develop, deliver, and sustain capabilities that support missions of the DoD. 
+A principal **objective** of DoDAF is to present **this information** in ways that can be understood by many stakeholders who develop, deliver, and sustain capabilities that support missions of the DoD.
 
 The DoDAF does **this** by dividing a problem space into manageable pieces that correspond to stakeholder **viewpoints**, which are further defined as **models**.
 
-
+DoDAF organizes models into these viewpoints:
 
 1. The All Viewpoint describes overarching aspects of an architecture context that relate to all viewpoints appropriate for the architecture.
 2. The Capability Viewpoint describes capability requirements, delivery timing, and deployed capabilities.
