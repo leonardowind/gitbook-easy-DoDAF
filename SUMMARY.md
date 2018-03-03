@@ -28,9 +28,9 @@
     * [Capability Viewpoint \(CV\)](chapter2/dodaf-viewpoints-and-models/capability-viewpoint-cv.md)
     * [Data and Information Viewpoint \(DIV\)](chapter2/dodaf-viewpoints-and-models/data-and-information-viewpoint-div.md)
     * [Operational Viewpoint \(OV\)](chapter2/dodaf-viewpoints-and-models/operational-viewpoint-ov.md)
-    * Project Viewpoint \(PV\)
-    * Service Viewpoint \(SvcV\)
-    * Standards Viewpoint \(StdV\)
-    * System Viewpoint \(SV\)
+    * [Project Viewpoint \(PV\)](chapter2/dodaf-viewpoints-and-models/project-viewpoint-pv.md)
+    * [Service Viewpoint \(SvcV\)](chapter2/dodaf-viewpoints-and-models/service-viewpoint-svcv.md)
+    * [Standards Viewpoint \(StdV\)](chapter2/dodaf-viewpoints-and-models/standards-viewpoint-stdv.md)
+    * [System Viewpoint \(SV\)](chapter2/dodaf-viewpoints-and-models/system-viewpoint-sv.md)
 * [Volume III: Meta-model Ontology Foundation and Physical Exchange Specification ](chapter3.md)
 
