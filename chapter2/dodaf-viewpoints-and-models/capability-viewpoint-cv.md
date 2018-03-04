@@ -10,8 +10,6 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 
 ![](/assets/Table 3.3-1Capability Viewpoint models.png)
 
-
-
 ## Capability Effects \(CV-1\)
 
 ## Capability Hierarchies \(CV-2\)
