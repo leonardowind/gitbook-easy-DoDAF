@@ -1,5 +1,7 @@
 # Operational Viewpoint \(OV\)
 
+![](/assets/Table 3.5-1Operational Viewpoint models.png)
+
 ## Operational Concept \(OV-1\)
 
 ## Organizations & Resources \(OV-2\)
