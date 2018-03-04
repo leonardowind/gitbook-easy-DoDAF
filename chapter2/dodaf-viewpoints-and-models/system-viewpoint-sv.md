@@ -1,5 +1,7 @@
 # System Viewpoint \(SV\)
 
+![](/assets/Table 3.9-1Systems Viewpoint models.png)
+
 ## Systems Composition and Interface Identification \(SV-1\)
 
 ## System Interface Means \(SV-2\)
