@@ -1,5 +1,7 @@
 # Service Viewpoint \(SvcV\)
 
+![](/assets/Table 3.7-1Services Viewpoint models.png)
+
 ## Services \(SvcV-1\)
 
 ## Service Interfaces \(SvcV-2\)
