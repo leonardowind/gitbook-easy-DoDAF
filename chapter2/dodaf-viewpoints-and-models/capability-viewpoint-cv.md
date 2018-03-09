@@ -14,11 +14,20 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 
 ## Capability Hierarchies \(CV-2\)
 
+* **Description**. This model identifies and describes one or more **hierarchies of capabilities** provided by an architecture, and it specifies the **types of hierarchical relationships** between these capabilities.
+* **Narrative**. This model emphasizes **relations** among capabilities and among the parts of capabilities.
+
 ## Capability Schedules \(CV-3\)
+
+* **Description**. This model **identifies** and **describes** **schedules** for the **deployment** of **resources** needed to **realize capabilities** provided by an **architecture**; these schedules are given in terms of **timelines**.
+* **Narrative**. This model emphasizes the **temporal parts** of capabilities, specifically the **temporal ordering** of activities that are parts of projects and temporal measures of the availability of resources. 
 
 ## Capability Dependencies \(CV-4\)
 
 ## Capability Deployments \(CV-5\)
+
+* **Description**. This model **identifies** and **describes** **schedules** for the **deployment** of **resources** needed to **realize capabilities** provided by an **architecture**; these schedules are given in terms of **organizations and locations**.
+* **Narrative**. This model emphasizes the **deployment of resources** produced by project activities so that those resources are available to a responsible performer to achieve a desired effect.
 
 ## Capability Activities \(CV-6\)
 
