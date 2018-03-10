@@ -15,12 +15,14 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 * **Description**. This model identifies and describes **effects** caused by capabilities within a described architecture and specifies **measures** for these effects.
 * **Narrative**. This model emphasizes the **desired effects** of capabilities provided by a described architecture.
 * In a CV-1 model, the **emphasis** is on desired effects, which are **articulated** by responsible performers, but details of organizations and organization types are **not modeled**.
-* A desired effect incorporates **three** things: 
+* A desired effect incorporates **three** things:
+
   * \(a\) some collection of resources in some **initial state**, 
   * \(b\) that collection of resources in some **desired state**, and 
   * \(c\) **measures** of the **differences** between resources in their initial state and their desired state. 
 
   A capability is also associated with a **measure** of desire to **express how important** it is to a responsible performer to achieve a desired effect. \(Measures of desire may be expressed in ways as varied as priorities, wagers, and budgets.\)
+
 * **Activities** are seen in CV-1 models just they are in other DoDAF models. In this model, the emphasis is on the **relationship** between activities and capabilities in the production of **desired effects**.
 * **Alternative names**: Vision; Capability Desired Effects.
 * **Notes**. To support **risk management and portfolio management**, a CV-1 model should **examine effects** that are **not desired** as well as effects that are desired.
@@ -30,18 +32,19 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 * **Description**. This model identifies and describes one or more **hierarchies of capabilities** provided by an architecture, and it specifies the **types of hierarchical relationships** between these capabilities.
 * **Narrative**. This model emphasizes **relations** among capabilities and among the parts of capabilities.
 * **Activities** are seen in CV-1 models just they are in other DoDAF models. Activities are to be **measured**; collections of **measures** that are applicable to activities should be **grouped as** types of measures of activities.
-*  A CV-2 model **shows **
+* A CV-2 model **shows **
   * \(a\) the **parts** that **make up **a whole capability and 
   * \(b\) the **capabilities** that are **subtypes and subtypes of the capabilities** described by an architecture description.
 * How to **examine** capability：
   * A capability may be examined in terms of its **parts** \(e.g., activities and resources; temporal and spatial states\) **using whole-part relationships**. For example, **understanding** capabilities can be approached by **composition** and by **decomposition** of activities and of resources. 
   * A capability may also be examined in terms of its **similarity and differences** with other capabilities **using super-subtype relationships**. For example, **understanding** capabilities can be approached by **comparing** activities, conditions, resources, desired effects, their measures, their locations, and other sorts of properties shared by different capabilities across their different states. **Capabilities** should be **categorized into types** by such analyses.
-*  **Alternative names**: Capability Taxonomy; Capability Hierarchy.
+* **Alternative names**: Capability Taxonomy; Capability Hierarchy.
 
 ## Capability Schedules \(CV-3\)
 
 * **Description**. This model **identifies** and **describes** **schedules** for the **deployment** of **resources** needed to **realize capabilities** provided by an **architecture**; these schedules are given in terms of **timelines**.
 * **Narrative**. This model emphasizes the **temporal parts** of capabilities, specifically the **temporal ordering** of activities that are parts of projects and temporal measures of the availability of resources. 
+* In a CV-3 model, the emphasis may be on **particular organizations** that desire specified effects and, similarly, particular organizations that may be critical to **achieving those effects**. Such particular organizations should be organizations of the **sort** that may have responsibility for those effects.
 
 ## Capability Dependencies \(CV-4\)
 
