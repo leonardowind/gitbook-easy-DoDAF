@@ -12,6 +12,14 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 
 ## Capability Effects \(CV-1\)
 
+* **Description**. This model identifies and describes **effects** caused by capabilities within a described architecture and specifies **measures** for these effects.
+* **Narrative**. This model emphasizes the **desired effects** of capabilities provided by a described architecture.
+*  In a CV-1 model, the **emphasis** is on desired effects, which are **articulated** by responsible performers, but details of organizations and organization types are **not modeled**.
+* A desired effect incorporates **three** things: \(a\) some collection of resources in some **initial state**, \(b\) that collection of resources in some **desired state**, and \(c\) **measures** of the **differences** between resources in their initial state and their desired state. A capability is also associated with a **measure** of desire to **express how important** it is to a responsible performer to achieve a desired effect. \(Measures of desire may be expressed in ways as varied as priorities, wagers, and budgets.\)
+* **Activities** are seen in CV-1 models just they are in other DoDAF models. In this model, the emphasis is on the **relationship** between activities and capabilities in the production of **desired effects**.
+* **Alternative names**: Vision; Capability Desired Effects.
+*  **Notes**. To support **risk management and portfolio management**, a CV-1 model should **examine effects** that are **not desired** as well as effects that are desired.
+
 ## Capability Hierarchies \(CV-2\)
 
 * **Description**. This model identifies and describes one or more **hierarchies of capabilities** provided by an architecture, and it specifies the **types of hierarchical relationships** between these capabilities.
