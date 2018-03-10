@@ -24,6 +24,7 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
   A capability is also associated with a **measure** of desire to **express how important** it is to a responsible performer to achieve a desired effect. \(Measures of desire may be expressed in ways as varied as priorities, wagers, and budgets.\)
 
 * **Activities** are seen in CV-1 models just they are in other DoDAF models. In this model, the emphasis is on the **relationship** between activities and capabilities in the production of **desired effects**.
+
 * **Alternative names**: Vision; Capability Desired Effects.
 * **Notes**. To support **risk management and portfolio management**, a CV-1 model should **examine effects** that are **not desired** as well as effects that are desired.
 
@@ -45,6 +46,9 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 * **Description**. This model **identifies** and **describes** **schedules** for the **deployment** of **resources** needed to **realize capabilities** provided by an **architecture**; these schedules are given in terms of **timelines**.
 * **Narrative**. This model emphasizes the **temporal parts** of capabilities, specifically the **temporal ordering** of activities that are parts of projects and temporal measures of the availability of resources. 
 * In a CV-3 model, the emphasis may be on **particular organizations** that desire specified effects and, similarly, particular organizations that may be critical to **achieving those effects**. Such particular organizations should be organizations of the **sort** that may have responsibility for those effects.
+* In a CV-3 model, the emphasis is on the **sorts of locations** where activities will be carried out to **produce** desired effects and the sorts of locations where resources involved as desired effects will be **found**. While a CV-3  model **does not require** exhaustive enumeration of all possible actual locations for all possible resources constituting a desired effect, specific known locations of more-or-less fixed resources may be modeled.
+* **Activities** are seen in a CV-3 model just they are in other DoDAF models. An activity **consumes** resources to **produce** resources. Performers, themselves resources, follow guidance, rules, and standards to **carry out** activities.
+* A CV-3 model **considers cases** where resources, particularly performers, may **not be readily available to** activities that produce desired effects. **Sets of activities** may be **grouped as projects** to ensure that **certain resources** are available where and when they are needed. In a CV-3 model, the emphasis is on the **sorts of projects** that will be involved in **delivering capabilities**. \(To examine **specific projects** within an architecture description, use the **Project Viewpoint**.\)
 
 ## Capability Dependencies \(CV-4\)
 
