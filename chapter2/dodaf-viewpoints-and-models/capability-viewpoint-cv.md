@@ -26,6 +26,7 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 * **Activities** are seen in CV-1 models just they are in other DoDAF models. In this model, the emphasis is on the **relationship** between activities and capabilities in the production of **desired effects**.
 
 * **Alternative names**: Vision; Capability Desired Effects.
+
 * **Notes**. To support **risk management and portfolio management**, a CV-1 model should **examine effects** that are **not desired** as well as effects that are desired.
 
 ## Capability Hierarchies \(CV-2\)
@@ -49,6 +50,8 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 * In a CV-3 model, the emphasis is on the **sorts of locations** where activities will be carried out to **produce** desired effects and the sorts of locations where resources involved as desired effects will be **found**. While a CV-3  model **does not require** exhaustive enumeration of all possible actual locations for all possible resources constituting a desired effect, specific known locations of more-or-less fixed resources may be modeled.
 * **Activities** are seen in a CV-3 model just they are in other DoDAF models. An activity **consumes** resources to **produce** resources. Performers, themselves resources, follow guidance, rules, and standards to **carry out** activities.
 * A CV-3 model **considers cases** where resources, particularly performers, may **not be readily available to** activities that produce desired effects. **Sets of activities** may be **grouped as projects** to ensure that **certain resources** are available where and when they are needed. In a CV-3 model, the emphasis is on the **sorts of projects** that will be involved in **delivering capabilities**. \(To examine **specific projects** within an architecture description, use the **Project Viewpoint**.\)
+* A CV-3 model emphasizes **looking at** a capability in terms of the **ordering of its temporal parts** using **happensIn** and **beforeAfter** **relationships**. **For example**, understanding capabilities can be approached by **comparing** when things happen in relation to when **other** things happen: what things **come before** and what things **come after**, and what things **happen in synchrony** or d**uring the same period of time** \(e.g., concurrency; serial and parallel execution and existence\).
+* **Alternative names:** Capability Phasing; Capability Deployment Phasing; Capability Resource Deployment Phasing; Capability Resource Deployment
 
 ## Capability Dependencies \(CV-4\)
 
