@@ -10,9 +10,26 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 
 ![](/assets/Table 3.3-1Capability Viewpoint models.png)
 
+## Description that all models have
+
+1. A capability comprises **activities and resources**, which includes resources that are **consumed** by activities, resources that are **produced** by activities, and resources, such as services, that perform activities. A capability is distinguished from other collections of activities and resources by 
+   1. \(a\) the explicit **presence of a performer** who       is capable of responsibility and who envisions a desired effect, 
+   2. \(b\) explicit **statement and measures** of such desired **effects**, 
+   3. \(c\) and explicit **consideration of conditions** under which activities entailed by a capability may be successfully carried out.
+2. A responsible **performer** envisions a desired effect. Responsible performers include** types of organizations** and **types of persons** in organizational roles. An effect desired by a responsible performer is some **desired resource state**, that is, some resource state to be achieved by specified **changes** to some set of resources that are **not initially** in the desired state. A desired effect incorporates **three** things:
+   1. \(a\) some collection of resources in some **initial state**, 
+   2. \(b\) that collection of resources in some **desired state**, and 
+   3. \(c\) **measures** of the **differences** between resources in their initial state and their desired state. 
+
+   A capability is also associated with a **measure** of desire to **express how important** it is to a responsible performer to achieve a desired effect. \(Measures of desire may be expressed in ways as varied as priorities, wagers, and budgets.\)
+3. A capability **plays out** over **space and time**: resources in **one state** are **transformed** into resources in **another state**. The **location of activities and resources** must be **knowable to ensure** that resources, including performers, are available to activities as they are needed. 
+4. Activities are **seen in a CV model** just they are in **other DoDAF models**. An activity **consumes** resources to **produce** resources. Performers, including services, follow guidance, rules, and standards to **carry out** activities.
+5. Capabilities, responsible performers, desired effects, resources, activities, services, service descriptions, conditions, measures of effects, and measures of desire **shall be modeled**. Types of locations of resources and activities, rules constraining activities, and additional sorts of measures **may be modeled**. Performers other than responsible performers and services** may be modeled**.
+
 ## Capability Effects \(CV-1\)
 
 1. **Description**. This model identifies and describes **effects** caused by capabilities within a described architecture and specifies **measures** for these effects.
+
 2. **Narrative**. This model emphasizes the **desired effects** of capabilities provided by a described architecture.
 3. In a CV-1 model, the **emphasis** is on desired effects, which are **articulated** by responsible performers, but details of organizations and organization types are **not modeled**.
 4. A desired effect incorporates **three** things:
@@ -101,11 +118,17 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 
 1. **Description**. This model identifies and describes **activities** that are **performed to cause the desired-effects** of a capability provided by a described architecture
 2. **Narrative**. This model emphasizes the **activities** that are parts of capabilities. 
-3.  In a CV-6 model, the emphasis is on the **sorts of locations where activities will be carried out**. While CV-6 model does **not require exhaustive enumeration** of all possible **actual locations** for all possible activities that are **part of a capability**, specific known locations of activities may be **modeled**.
+3. In a CV-6 model, the emphasis is on the **sorts of locations where activities will be carried out**. While CV-6 model does **not require exhaustive enumeration** of all possible **actual locations** for all possible activities that are **part of a capability**, specific known locations of activities may be **modeled**.
 4. A CV-6 model may **use whole-part relationships** to **examine a capability** in terms of its **parts that are activities**. For example, understanding capabilities can be approached **by composition and by decomposition of activities**. These activities may be related to **types of capabilities** that include the capabilities described by an architecture description.
 5. **Alternative names:** Capability to Operational Activities Mapping.
 
 ## Capabilities & Services \(CV-7\)
+
+1. **Description.** This model identifies and describes **relationships** among services and the capabilities **accessed** via these services as provided by an architecture.
+2. **Narrative**. This model emphasizes **services** that **enable** a responsible **performer** to **access** **resources** needed to achieve a desired effect.
+3. In a CV-7 model, the emphasis is on the **sorts of locations where activities will be carried out** to **produce** desired effects and the **sorts of locations where resources involved** as desired effects will be **found**.
+4. **Services** appear in a CV-7 model as **performers**, but services are **not responsible performers**. Services are **used by responsible performers** and by **other performers** to **carry out activities**. As elsewhere in DoDAF viewpoints, a service **enables access** to some **set of resources** and a service is to be described by a **service description**. Of particular interest in a CV-7 model are services that **give** responsible performers **access to those resources** that **constitute** the responsible performer’s desired effects.
+5. **Alternative names:** Capability to Services Mapping; Capability Services.
 
 
 
