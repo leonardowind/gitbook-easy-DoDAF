@@ -90,7 +90,7 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 2. **Narrative**. This model emphasizes the **deployment of resources** produced by project activities so that those resources are available to a responsible performer to **achieve a desired effect**.
 3. In the Capability Viewpoint, the emphasis may be on **particular organizations** that desire specified effects and, similarly, **particular organizations** that may be critical to **achieving those effects**. Such particular organizations should be **organizations of the sort** that may have responsibility for those effects.
 4. In a CV-5 model, the emphasis may be on the **sorts of locations** where activities will be carried out to produce resources needed to **achieve desired effects** and the **sorts of locations** where such resources will be **delivered or otherwise transported**. 
-5. While a CV\_5 model does **not require** exhaustive enumeration of **all possible actual locations** for all possible resources constituting a desired effect, **specific known locations** of more-or-less **fixed resources** may be **modeled**.
+5. While a CV\_5 model does **not require** exhaustive enumeration of **all possible actual locations** for all possible resources** constituting** a desired effect, **specific known locations** of more-or-less **fixed resources** may be **modeled**.
 6. In a CV-5 model, the emphasis is on the **sorts of projects** that might be involved in **delivering the resources** that are parts of a capability and on **temporal measures** appropriate to **understanding the delivery of such resources** \(e.g., schedules; time-lines; budget cycles\). \(To examine specific projects within an architecture description, use the Project Viewpoint.\)
 7. In a CV-5 model, the emphasis is on the **temporal parts** of activities—on successive state changes over time—that **produce** 
    1. \(a\)3-16 resources that are **consumed** to achieve a capability and 
@@ -98,6 +98,12 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 8. **Alternative names:** Capability to Organizational Development Mapping; Organizational Deployment of Capabilities; Capability Resource Deployment.
 
 ## Capability Activities \(CV-6\)
+
+1. **Description**. This model identifies and describes **activities** that are **performed to cause the desired-effects** of a capability provided by a described architecture
+2. **Narrative**. This model emphasizes the **activities** that are parts of capabilities. 
+3.  In a CV-6 model, the emphasis is on the **sorts of locations where activities will be carried out**. While CV-6 model does **not require exhaustive enumeration** of all possible **actual locations** for all possible activities that are **part of a capability**, specific known locations of activities may be **modeled**.
+4. A CV-6 model may **use whole-part relationships** to **examine a capability** in terms of its **parts that are activities**. For example, understanding capabilities can be approached **by composition and by decomposition of activities**. These activities may be related to **types of capabilities** that include the capabilities described by an architecture description.
+5. **Alternative names:** Capability to Operational Activities Mapping.
 
 ## Capabilities & Services \(CV-7\)
 
