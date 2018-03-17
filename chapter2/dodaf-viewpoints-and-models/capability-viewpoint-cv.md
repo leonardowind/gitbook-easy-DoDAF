@@ -12,16 +12,17 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 
 ## Description that all models have
 
-1. A capability comprises **activities and resources**, which includes resources that are **consumed** by activities, resources that are **produced** by activities, and resources, such as services, that perform activities. A capability is distinguished from other collections of activities and resources by 
-   1. \(a\) the explicit **presence of a performer** who       is capable of responsibility and who envisions a desired effect, 
+1. A capability comprises **activities and resources**, which includes resources that are **consumed** by activities, resources that are **produced** by activities, and resources, such as services, that **perform** activities. A capability is **distinguished from** other collections of activities and resources by 
+   1. \(a\) the explicit **presence of a performer** who is capable of responsibility and who envisions a desired effect, 
    2. \(b\) explicit **statement and measures** of such desired **effects**, 
    3. \(c\) and explicit **consideration of conditions** under which activities entailed by a capability may be successfully carried out.
-2. A responsible **performer** envisions a desired effect. Responsible performers include** types of organizations** and **types of persons** in organizational roles. An effect desired by a responsible performer is some **desired resource state**, that is, some resource state to be achieved by specified **changes** to some set of resources that are **not initially** in the desired state. A desired effect incorporates **three** things:
-   1. \(a\) some collection of resources in some **initial state**, 
-   2. \(b\) that collection of resources in some **desired state**, and 
-   3. \(c\) **measures** of the **differences** between resources in their initial state and their desired state. 
+2. A responsible **performer** envisions a desired effect. Responsible performers include** types of organizations** and **types of persons** in organizational roles. An effect desired by a responsible performer is some **desired resource state**, that is, some resource state to be achieved by specified **changes** to some set of resources that are **not initially** in the desired state. A desired effect incorporates **three** things:  
+   1. \(a\) some collection of resources in some **initial state**,   
+   2. \(b\) that collection of resources in some **desired state**, and   
+   3. \(c\) **measures** of the **differences** between resources in their initial state and their desired state.
 
    A capability is also associated with a **measure** of desire to **express how important** it is to a responsible performer to achieve a desired effect. \(Measures of desire may be expressed in ways as varied as priorities, wagers, and budgets.\)
+
 3. A capability **plays out** over **space and time**: resources in **one state** are **transformed** into resources in **another state**. The **location of activities and resources** must be **knowable to ensure** that resources, including performers, are available to activities as they are needed. 
 4. Activities are **seen in a CV model** just they are in **other DoDAF models**. An activity **consumes** resources to **produce** resources. Performers, including services, follow guidance, rules, and standards to **carry out** activities.
 5. Capabilities, responsible performers, desired effects, resources, activities, services, service descriptions, conditions, measures of effects, and measures of desire **shall be modeled**. Types of locations of resources and activities, rules constraining activities, and additional sorts of measures **may be modeled**. Performers other than responsible performers and services** may be modeled**.
@@ -31,6 +32,7 @@ The Capability Viewpoint describes **capability requirements**, **delivery timin
 1. **Description**. This model identifies and describes **effects** caused by capabilities within a described architecture and specifies **measures** for these effects.
 
 2. **Narrative**. This model emphasizes the **desired effects** of capabilities provided by a described architecture.
+
 3. In a CV-1 model, the **emphasis** is on desired effects, which are **articulated** by responsible performers, but details of organizations and organization types are **not modeled**.
 4. A desired effect incorporates **three** things:
 
